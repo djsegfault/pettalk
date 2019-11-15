@@ -1,0 +1,4 @@
+#!/usr/bin/python
+
+from playsound import playsound
+playsound('/media/david/DKBIGWIN/music/music/BT_-_Movement_In_Still_Life_-_Dreaming.mp3')
